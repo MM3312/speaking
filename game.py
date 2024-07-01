@@ -35,7 +35,7 @@ while True:
         comp_choice_name = 'Paper'
     else:
         comp_choice_name = 'Scissors'
-    print("Computer choice is :", comp_choice_name)
+    print("Computer choice is ",comp_choice_name)
     print(choice_name, 'Vs', comp_choice_name)
     
     if choice == comp_choice:
